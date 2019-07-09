@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/FreeYourSoul/FSeam/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/FreeYourSoul/FSeam/master/LICENSE) [![Build Status](https://travis-ci.com/chaabaj/FSeam.svg?branch=master)](https://travis-ci.com/chaabaj/FSeam)
 
 # FSeam
 ![FSeam logo](https://github.com/FreeYourSoul/FSeam/blob/master/artwork/logo.png?raw=true)
